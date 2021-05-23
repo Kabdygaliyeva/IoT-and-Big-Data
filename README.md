@@ -24,3 +24,6 @@ The voice assistant voices this message: "There is traffic, choose an alternativ
 
 <img src="result/result7.png" >
 
+# Conclusion
+
+For traffic management: collecting, storing, aggregating and analyzing traffic information in real time can solve many problems, as well as optimize routes for travelers or tourists. This can be done by enabling sensors and actuators in cars, buses, and other vehicles that have the ability to process information about the flow of cars on one of the streets or avenues from centralized cameras. After which drivers or managers can decide to avoid obstacles.
