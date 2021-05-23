@@ -16,6 +16,11 @@ In this example, we are looking at another video where there is a traffic.
 The voice assistant voices this message: "There is traffic, choose an alternative route".
 <img src="result/result4.png" >
 
-### 
+### Also additionally, we decided to find the absolute difference between the background and the current frame, and it looks like this:
 
+<img src="result/result5.png" >
+
+<img src="result/result6.png" >
+
+<img src="result/result7.png" >
 
